@@ -1,4 +1,6 @@
-# 🍳 SayChef
+<p align="center">
+  <img src="logo.png" width="120">
+</p>
 
 > **Speak your recipes. We'll organize the rest.**
 
