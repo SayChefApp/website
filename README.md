@@ -20,34 +20,30 @@ Whether you're preserving family recipes, discovering meals from ingredients you
 
 ---
 
-# Screenshots
+<div align="center">
 
-| Homepage | Voice Recipe Recorder |
-|-----------|-----------------------|
-| ![](1.%20homepage.PNG) | ![](2.%20Voice%20Recipe%20Recorder.PNG) |
+<img src="1.%20homepage.PNG" width="30%">
+<img src="2.%20Voice%20Recipe%20Recorder.PNG" width="30%">
+<img src="3.%20Ingredient%20Finder.PNG" width="30%">
 
-| Ingredient Finder | Shared Family Cookbook |
-|-------------------|------------------------|
-| ![](3.%20Ingredient%20Finder.PNG) | ![](4.%20Cookbook.PNG) |
+<br>
 
-| Hands-Free Cook Mode | Grocery List |
-|----------------------|--------------|
-| ![](5.%20Cook%20Mode.PNG) | ![](6.%20Grocery%20List.PNG) |
+<img src="4.%20Cookbook.PNG" width="30%">
+<img src="5.%20Cook%20Mode.PNG" width="30%">
+<img src="6.%20Grocery%20List.PNG" width="30%">
+
+</div>
 
 ---
 
-# SEO Pages
+# Features
 
-<div align="center">
-
-🎙️ **Voice Recipe Recorder**  
-🥘 **AI Ingredient Finder**  
-👨‍👩‍👧 **Shared Family Cookbook**  
-✍️ **Handwritten Recipe Organizer**  
-🍽️ **Hands-Free Cook Mode**  
-🛒 **Smart Grocery Lists**
-
-</div>
+- 🎙️ Voice Recipe Recorder
+- 🥘 AI Ingredient Finder
+- 👨‍👩‍👧 Shared Family Cookbook
+- ✍️ Handwritten Recipe Organizer
+- 🍽️ Hands-Free Cook Mode
+- 🛒 Smart Grocery Lists
 
 ---
 
