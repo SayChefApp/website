@@ -36,14 +36,18 @@ Whether you're preserving family recipes, discovering meals from ingredients you
 
 ---
 
-# Features
+# SEO Pages
 
-- 🎙️ Voice Recipe Recorder
-- 🥘 AI Ingredient Finder
-- 👨‍👩‍👧 Shared Family Cookbook
-- ✍️ Handwritten Recipe Organizer
-- 🍽️ Hands-Free Cook Mode
-- 🛒 Smart Grocery Lists
+<div align="center">
+
+🎙️ **Voice Recipe Recorder**  
+🥘 **AI Ingredient Finder**  
+👨‍👩‍👧 **Shared Family Cookbook**  
+✍️ **Handwritten Recipe Organizer**  
+🍽️ **Hands-Free Cook Mode**  
+🛒 **Smart Grocery Lists**
+
+</div>
 
 ---
 
