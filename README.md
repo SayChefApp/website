@@ -8,31 +8,46 @@ SayChef is a voice-first AI recipe manager that transforms spoken recipes into b
 
 ---
 
-## Features
+# Screenshots
 
-🎙️ **Voice Recipe Recorder**
-- Record recipes naturally with your voice.
-- AI automatically formats ingredients, measurements, cooking steps, and notes.
+## Homepage
 
-🥘 **Ingredient Finder**
-- Tell SayChef what ingredients you have.
-- Get recipe ideas instantly.
+![](1.%20homepage.PNG)
 
-👨‍👩‍👧 **Shared Family Cookbook**
-- Build one cookbook the whole family can contribute to.
-- Preserve recipes for future generations.
+## Voice Recipe Recorder
 
-📖 **Handwritten Recipe Organizer**
-- Digitize handwritten recipe cards.
-- Keep treasured family recipes safe forever.
+![](2.%20Voice%20Recipe%20Recorder.PNG)
 
-🍽️ **Hands-Free Cook Mode**
-- Step-by-step cooking with large controls.
-- Voice guidance while your hands stay busy.
+## Ingredient Finder
+
+![](3.%20Ingredient%20Finder.PNG)
+
+## Shared Family Cookbook
+
+![](4.%20Cookbook.PNG)
+
+## Hands-Free Cook Mode
+
+![](5.%20Cook%20Mode.PNG)
+
+## Grocery List
+
+![](6.%20Grocery%20List.PNG)
 
 ---
 
-## Why We Built SayChef
+# Features
+
+- 🎙️ Voice Recipe Recorder
+- 🥘 Ingredient Finder
+- 👨‍👩‍👧 Shared Family Cookbook
+- ✍️ Handwritten Recipe Organizer
+- 🍽️ Hands-Free Cook Mode
+- 🛒 Smart Grocery Lists
+
+---
+
+# Why We Built SayChef
 
 Typing recipes while cooking is frustrating.
 
@@ -46,41 +61,42 @@ SayChef was built to preserve recipes, simplify cooking, and make it effortless 
 
 ---
 
-## Product
-
-Visit the live app:
+# Live App
 
 👉 https://saychef.online
 
 ---
 
-## Roadmap
+# Roadmap
 
-- [x] Voice recipe recording
-- [x] Ingredient finder
-- [x] Shared family cookbooks
-- [x] Handwritten recipe organizer
-- [x] Hands-free Cook Mode
-- [ ] Android app
-- [ ] iOS app improvements
-- [ ] AI meal planning
-- [ ] Grocery list optimization
+- ✅ Voice recipe recording
+- ✅ AI recipe formatting
+- ✅ Ingredient finder
+- ✅ Shared family cookbook
+- ✅ Handwritten recipe organizer
+- ✅ Hands-Free Cook Mode
+- ✅ Grocery lists
+- 🔄 Recipe scaling
+- 🔄 Nutrition estimates
+- 🔄 Meal planning
 
 ---
 
-## Feedback
+# Feedback
 
-We're actively improving SayChef and would love your feedback.
+We're actively improving SayChef.
 
-If you have ideas or feature requests, please open an Issue or visit:
+If you have suggestions or feature requests, we'd love to hear them.
+
+Visit:
 
 https://saychef.online
 
 ---
 
-## License
+# License
 
-This repository contains the public project page and documentation for SayChef.
+This repository serves as the public project page for SayChef.
 
 The SayChef application itself is proprietary software.
 
